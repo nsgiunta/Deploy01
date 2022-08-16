@@ -1,0 +1,5 @@
+environment: devName
+myCustomVarTree:
+  questomVar: "Natalia"
+server:
+  port: 7070
